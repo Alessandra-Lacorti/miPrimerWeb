@@ -47,37 +47,42 @@ nav {
 }
 
 /* título*/
-h2 {
+.h2 {
     border: 2px solid salmon;
     padding: 5px; 
 }
 
-div {
+.div {
     border: 2px solid blue;
     padding: 5px;
 }
 
-h3 {
+.h3 {
     border: 2px solid gold;
     padding: 5px;
 }
 
-p {
+.p {
     border: 2px solid slateblue;
     padding: 5px;
 }
 
-image {
+.image {
     border: 2px solid brown;
     padding: 5px;
 }
 
-aside {
+.aside {
     border: 2px solid blueviolet;
     padding: 5px;
 }
 
-footer {
-    border: 2px solid black;
-    padding: 5px;
-}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }

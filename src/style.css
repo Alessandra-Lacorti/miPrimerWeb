@@ -49,17 +49,20 @@ nav {
 /* título*/
 h2 {
     border: 2px solid salmon;
+    margin-bottom: 10px;
 }
 
 
 
 h3 {
     border: 2px solid blue;
+    margin-bottom: 10px;
 }
 
 .link {
     border: 2px solid gold;
     padding: 5px;
+    margin-bottom: 10px;
 }
 
 .link {

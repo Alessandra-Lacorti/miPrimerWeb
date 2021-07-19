@@ -65,17 +65,17 @@ h3 {
     padding: 5px;
 }
 
-.image {
+image {
     border: 2px solid brown;
     padding: 5px;
 }
 
-.aside {
+aside {
     border: 2px solid blueviolet;
     padding: 5px;
 }
 
-.footer {
+footer {
     position: fixed;
     left: 0;
     bottom: 0;

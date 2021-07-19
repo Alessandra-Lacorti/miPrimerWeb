@@ -7,7 +7,7 @@
 
 /*Armando estructura de cajas*/
 body {
-    border: 3px solid orange (19, 10, 44);
+    border: 3px solid orange;
     margin: 5px;
     padding: 10px;
 }
@@ -21,7 +21,7 @@ body {
 
 /* Selector de etiqueta: */
 nav {
-    border: 2px solid rgb(75, 46, 155); 
+    border: 2px solid purple; 
     padding: 10px;
 }
 /* Selector de clase lleva siempre un . (punto) antes del nombre de la clase: */

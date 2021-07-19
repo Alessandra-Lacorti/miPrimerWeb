@@ -47,22 +47,20 @@ nav {
 }
 
 /* título*/
-.h2 {
+h2 {
     border: 2px solid salmon;
-    padding: 5px; 
 }
 
-.div {
+h3 {
     border: 2px solid blue;
-    padding: 5px;
 }
 
-.h3 {
+.p * a {
     border: 2px solid gold;
     padding: 5px;
 }
 
-.p {
+.p * a {
     border: 2px solid slateblue;
     padding: 5px;
 }

@@ -51,16 +51,18 @@ h2 {
     border: 2px solid salmon;
 }
 
+
+
 h3 {
     border: 2px solid blue;
 }
 
-.p * a {
+.link {
     border: 2px solid gold;
     padding: 5px;
 }
 
-.p * a {
+.link {
     border: 2px solid slateblue;
     padding: 5px;
 }

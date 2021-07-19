@@ -43,7 +43,7 @@ nav {
 /* Estilos del Contenido (Main) */
 /* Selector de Id lleva siempre una # (Almohadilla) antes del nombre del Id: */
 #mainContent {
-    border: 2px solid pink (156, 147, 147);
+    border: 2px solid rgb(235, 9, 47) (156, 147, 147);
 }
 
 /* título*/

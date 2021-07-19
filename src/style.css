@@ -44,6 +44,7 @@ nav {
 /* Selector de Id lleva siempre una # (Almohadilla) antes del nombre del Id: */
 #mainContent {
     border: 2px solid blueviolet;
+    margin: 4 px;
 }
 
 /* título*/
